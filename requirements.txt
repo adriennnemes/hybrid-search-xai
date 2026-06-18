@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+requests
+joblib
+rank-bm25
+numpy
+matplotlib
+pandas
+gradio
+sentence-transformers
+chromadb
