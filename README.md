@@ -1,4 +1,4 @@
-# Hybrid Semantic Search for Explainable AI Literature
+# Hybrid Search for Explainable AI Literature
 
 ## Project Overview
 
