@@ -128,23 +128,6 @@ This project provided practical experience in:
 
 A key takeaway was that semantic retrieval and lexical retrieval solve different problems. Combining both approaches often produces more robust search results than relying on a single retrieval strategy.
 
-## Repository Structure
-
-```text
-app/
-├── api/
-├── services/
-├── ui/
-├── ingest/
-├── search/
-├── evaluation/
-└── data/
-
-docker-compose.yml
-Dockerfile
-requirements.txt
-```
-
 ## Future Improvements
 
 Potential future extensions include:
